@@ -1,6 +1,3 @@
-Appsfire-Android-Unity-plugin
-=============================
-
 # I] Introduction
 This documentation is a brief introduction to Appsfire Android SDK for Unity. We recommend you to take a look on the general documentation that you can find in your dashboard. If you have a problem during the integration, don't hesitate to contact our product designer called Jonathan at <a href="mailto:jonathan@appsfire.com">jonathan@appsfire.com</a>.
 
